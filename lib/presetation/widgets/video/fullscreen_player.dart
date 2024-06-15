@@ -29,6 +29,7 @@ class _FullScrenPlayerState extends State<FullScrenPlayer> {
       ..setVolume(0) //silenciar video
       ..setLooping(true) //repetir video
       ..play(); //reproducir video
+      
   }
 
   @override
