@@ -1,15 +1,10 @@
 List<Map<String, dynamic>> videoPosts = [
+  
   {
-    'name': 'Subiendo escaleras automáticas',
-    'videoUrl': 'assets/videos/1.mp4',
-    'likes': 23230,
-    'views': 1523,
-  },
-  {
-    'name': 'Planta apreciada por peatones',
+    'name': 'La ciudad es bella',
     'videoUrl': 'assets/videos/2.mp4',
-    'likes': 24230,
-    'views': 1343,
+    'likes': 1321,
+    'views': 13212,
   },
   {
     'name': 'Que borroso veo todo!',
@@ -23,51 +18,32 @@ List<Map<String, dynamic>> videoPosts = [
     'likes': 320,
     'views': 2300,
   },
+  
   {
-    'name': 'El COVID no me afecta',
+    'name': 'Tocando piano!',
     'videoUrl': 'assets/videos/5.mp4',
-    'likes': 3230,
-    'views': 31030,
+    'likes': 1321,
+    'views': 132,
   },
   {
-    'name': 'No quiero ir a trabajar hoy señor Stark',
+    'name': 'Haciendo los deberes!',
     'videoUrl': 'assets/videos/6.mp4',
-    'likes': 10,
-    'views': 330,
+    'likes': 12123,
+    'views': 1321,
   },
- 
   {
-    'name': '¿Ya llegamos a la India?... umm si',
+    'name': '¿Que es esto?',
     'videoUrl': 'assets/videos/7.mp4',
-    'likes': 342,
-    'views': 3332,
-  },
-
-  {
-    'name': 'Fight',
-    'videoUrl': 'assets/videos/8.mp4',
-    'likes': 1200000,
-    'views': 333200000,
-  },
-
- {
-    'name': 'Play videogames',
-    'videoUrl': 'assets/videos/9.mp4',
-    'likes': 434002,
-    'views': 5102030,
-  },
-
- {
-    'name': 'New city, New Life',
-    'videoUrl': 'assets/videos/10.mp4',
-    'likes': 1220304050,
-    'views': 3332415261,
+    'likes': 1321,
+    'views': 1321,
   },
   {
-    'name': "Naisu it's works!",
-    'videoUrl': 'assets/videos/11.mp4',
-    'likes': 1220304053212112120,
-    'views': 333241121215261,
-  }
+    'name': 'Naisu it is works!',
+    'videoUrl': 'assets/videos/1.mp4',
+    'likes': 1321,
+    'views': 1123,
+  },
+  
+  
 
 ];
